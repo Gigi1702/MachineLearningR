@@ -4,7 +4,7 @@
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
-(https://mybinder.org/v2/gh/Gigi1702/MachineLearningR/HEAD)
+https://mybinder.org/v2/gh/Gigi1702/MachineLearningR/HEAD
 
 This project is adapted from the tuotrial "Your First Machine Learning Project in R Step-By-Step" by Jason Brownlee.
 Access the tutorial with the link below:
